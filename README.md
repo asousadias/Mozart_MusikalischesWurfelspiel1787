@@ -8,8 +8,9 @@ a.sousadias@belasartes.ulisboa.pt
 
 ## Description:
 Experiments started in 1986 with GFA Basic for the Atari ST computer.<br>
-Here you'll find two approaches.
-
+Here you'll find two approaches:
+- Version 1: Programmed in 2000. The MaxMSP patch uploads MIDI and PNG files according to mesures choosed from the 176 available.
+- Version 2: Programmed in 2018. The MaxMSP patch requires the bach library. The measures are choosed and concatenated from a MIDI containing all measures as the original "score".
 
 ## Remarks
 
